@@ -20,7 +20,7 @@ const YoungPeople = () => {
   };
 
   return (
-    <div ref={ref} className="bg-[#FEFAEF] py-24 px-4 sm:px-6 md:px-12">
+    <div ref={ref} className="bg-[#FEFAEF] py-24 px-4 sm:px-4 md:px-12">
       <div className="max-w-7xl mx-auto translate-x-[10px] md:translate-x-[30px]">
         <div className="grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
           {/* Left Side */}
